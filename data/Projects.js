@@ -1,13 +1,13 @@
 export const Projects = [
   {
     id: 1,
-    name: 'Website Gabut',
+    name: 'Swagger API',
     slug: 'sgcid',
     img: 'sgcid',
-    demo: 'https://menyala.vercel.app',
-    sourceCode: 'https://menyala.vercel.app',
+    demo: 'https://kyuu2nd.dev',
+    sourceCode: 'https://kyuu2nd.dev',
     description:
-      'Sebuah Website Gabut Yang Fi penuhi Kata Kata (quotes) para creator Bot WhatsApp !!',
+      'Simple Rest APO',
   },
   {
     id: 3,
@@ -18,45 +18,5 @@ export const Projects = [
     sourceCode: '#',
     description:
       'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 3,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 4,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 5,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
-  {
-    id: 6,
-    name: 'Coming Soon Project',
-    slug: 'coming-soon-project',
-    img: 'coming-soon',
-    demo: '#',
-    sourceCode: '#',
-    description:
-      'Nantikan project-project mendatang lainnya.',
-  },
+  }
 ];
