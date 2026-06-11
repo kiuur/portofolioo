@@ -7,10 +7,10 @@ export const Projects = [
     demo: 'https://kyuu2nd.dev',
     sourceCode: 'https://kyuu2nd.dev',
     description:
-      'Simple Rest APO',
+      'Simple Rest API',
   },
   {
-    id: 3,
+    id: 2,
     name: 'Coming Soon Project',
     slug: 'coming-soon-project',
     img: 'coming-soon',
